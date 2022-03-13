@@ -1,3 +1,6 @@
 print("Vincent Ray V. Orbien")
 print("Santol,Boac,Marinduque")
 print("February 15, 2002")
+print("Marinduque State College")
+print("Bachelor of Science in Information Technology")
+print("Second Year - 2C")
